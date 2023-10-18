@@ -52,7 +52,7 @@ Exemplo:
 ```
 #### Respostas
 ##### OK! 200
-Caso essa resposta aconteça você vai receber a listagem de todos os games.
+Caso essa resposta aconteça você vai receber um token JWT para conseguir acessar endpoints protegidos na API.
 Exemplo de resposta:
 ```
     {
